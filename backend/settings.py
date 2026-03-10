@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-s$v)7e7_e(d+6a@m^8&$u41ey$h4s5l=h%yjbb+z5g7p*b6i^n"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = [
     'booking-services-co.onrender.com'
